@@ -1,0 +1,27 @@
+{
+    "shibi": {
+        "email": "shibi@gmail.com",
+        "password": "$2b$12$3uaV01peyZV6GD9j3i4PTOLgrCLmtyABQXEzhHGA8pUo2OLkx6wTC"
+    },
+    "rithu": {
+        "email": "rithu@gmail.com",
+        "password": "$2b$12$VxgZU7DQrT3rOEGvKESSIedeREKOOTdbF5di3mZYlIbKcsiyTDegy"
+    },
+    "lithi": {
+        "email": "lithi@gmail.com",
+        "password": "$2b$12$siZGUdOGvi1McO97u5U6z.O8DoO2d74vP35euw5BiVsBjwLUWXcDq",
+        "role": "Student"
+    },
+    "guna": {
+        "email": "guna@gmail.com",
+        "password": "$2b$12$mBqqTK7Bzp9jHSjWn1mg.eOOtAzcddIJazKSoKEslvhCM5kMA.hdC",
+        "contact": "6789543312",
+        "role": "Student"
+    },
+    "raj": {
+        "email": "raj@gmail.com",
+        "password": "$2b$12$WbI4jlEIoWO/KlNEblZutOD/p9oS5rZIJNxNsdVfvn3pquHihDLyS",
+        "contact": "4567898765",
+        "role": "Lawyer"
+    }
+}
